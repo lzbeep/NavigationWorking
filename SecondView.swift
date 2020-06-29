@@ -13,7 +13,7 @@ struct SecondView: View {
         Text("Hello, Second View!")
             .font(.largeTitle)
             .fontWeight(.medium)
-            .foregroundColor(Color.blue)
+            .foregroundColor(Color.green)
     }
 }
 
